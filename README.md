@@ -29,7 +29,7 @@ My recent work focuses on h-function, which is a function in a single real varia
 
 <p>
 </p><h2> Commutative Algebra Student Seminar </h2>
-In Spring 2022 I organized a commutative algebra student seminar. For more information about the seminar, please see <a href="https://www.math.purdue.edu/~cheng319/CASS Spring 2022.html">here</a>.
+In Spring 2022 I organized a commutative algebra student seminar. For more information about the seminar, please see <a href="https://cmengca23.github.io/CASS Spring 2022.html">here</a>.
 <p></p>
 
 </p><h2> ICTP Summer School </h2>

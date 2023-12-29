@@ -56,23 +56,23 @@ I have been the grader for:
 
 <p>
 </p><h2>Publications</h2>
-<ul><li>G-graded irreducibility and the index of reducibility, Communications in Algebra, DOI: 10.1080/00927872.2019.1662914 <a href="https://www.math.purdue.edu/~cheng319/papers/20181216 Graded Irreducible paper10.pdf">PDF</a>
+<ul><li>G-graded irreducibility and the index of reducibility, Communications in Algebra, DOI: 10.1080/00927872.2019.1662914 <a href="https://cmengca23.github.io/papers-PDF version/20181216 Graded Irreducible paper10.pdf">PDF</a>
 <a href="https://arxiv.org/abs/1812.06541">Arxiv</a></li></ul>
 <p></p>
 
 <p>
 </p><h2>Preprints</h2>
-<ul><li>Restrictions on Hilbert coefficients give the depth of a prime ideal inside the polynomial ring <a href="https://www.math.purdue.edu/~cheng319/papers/20231120 InP.pdf">PDF</a></li></ul>
+<ul><li>Restrictions on Hilbert coefficients give the depth of a prime ideal inside the polynomial ring <a href="https://cmengca23.github.io/papers-PDF version/20231120 InP.pdf">PDF</a></li></ul>
 
 <ul><li>Local cohomology tables of sequentially almost Cohen-Macaulay modules <a href="https://www.math.purdue.edu/~cheng319/papers/2111.07536v2.pdf">PDF</a>
 <a href="https://arxiv.org/abs/2111.07536">Arxiv</a></li></ul>
 <p></p>
 
-<ul><li>Strongly Lech-independent ideals and Lech's conjecture <a href="https://www.math.purdue.edu/~cheng319/papers/2112.09849.pdf">PDF</a>
+<ul><li>Strongly Lech-independent ideals and Lech's conjecture <a href="https://cmengca23.github.io/papers-PDF version/2112.09849.pdf">PDF</a>
 <a href="https://arxiv.org/abs/2112.09849">Arxiv</a></li></ul>
 <p></p>
 
-<ul><li>h-function, Hilbert-Kunz density function and Frobenius-Poincar茅 function(draft). <a href="https://www.math.purdue.edu/~cheng319/papers/h-function.pdf">PDF</a> <a href="https://arxiv.org/abs/2310.10270">Arxiv</a>
+<ul><li>h-function, Hilbert-Kunz density function and Frobenius-Poincar茅 function(draft). <a href="https://cmengca23.github.io/papers-PDF version/h-function.pdf">PDF</a> <a href="https://arxiv.org/abs/2310.10270">Arxiv</a>
 <p></p>
 
 
@@ -80,9 +80,9 @@ I have been the grader for:
 
 <p></p>
 <h2>Links</h2>
-<a href="https://www.math.purdue.edu/~cheng319/CV Cheng Meng 20231101.pdf">My CV</a><br>
+<a href="https://cmengca23.github.io/CV Cheng Meng 20231101.pdf">My CV</a><br>
 
-<a href="https://www.math.purdue.edu/~cheng319/cheng meng's photo.jpg">My photo</a>
+<a href="https://cmengca23.github.io/cheng meng's photo.jpg">My photo</a>
 <p></p>
 
 This page was last updated on Nov 1, 2023.

@@ -22,7 +22,7 @@ Email: cheng319 at purdue dot edu
 
 <p>
 </p><h2> About Me </h2>
-I am a PhD student in mathematics. My advisors are Giulio Caviglia and Linquan Ma. My research interests are in commutative algebra and its interactions with algebraic geometry, homological algebra and combinatorics. I am on the job market this fall.<br><br>
+I will be a postdoctoral fellow at SLMath (formerly MSRI) during the Spring 2024 semester. I received my PhD from Purdue in December 2023. My advisors are Giulio Caviglia and Linquan Ma. My research interests are in commutative algebra and its interactions with algebraic geometry, homological algebra and combinatorics. I am on the job market this fall.<br><br>
 I worked on problems regarding the graded-irreducibility of graded modules, generic initial ideals, Boij-Soderberg theory for local cohomology tables, Lech's conjecture on multiplicities of flat local extension of Noetherian local rings, and singularities in prime characteristic. I have proved a new case of Lech's conjecture, and have found a way to decompose the local cohomology table of almost Cohen-Macaulay modules. <br><br>
 My recent work focuses on h-function, which is a function in a single real variable. It estimates the asymptotic behaviour of the sum of an ordinary power and a Frobenius power and has connections with many important invariants in charateristic p including the Hilbert-Kunz multiplicity, the F-signature, and the F-threshold.
 <p></p>
@@ -30,7 +30,7 @@ My recent work focuses on h-function, which is a function in a single real varia
 <p>
 </p><h2> Commutative Algebra Student Seminar </h2>
 In Spring 2022 I organized a commutative algebra student seminar. For more information about the seminar, please see <a href="https://cmengca23.github.io/CASS Spring 2022.html">here</a>.
-<p></p>
+<p>
 
 </p><h2> ICTP Summer School </h2>
 In Summer 2022 I was a tutor in the ICTP summer school <a href="https://indico.ictp.it/event/9791/">"Graduate Course on Tight Closure of Ideals and its Applications"</a><p>
@@ -85,7 +85,7 @@ I have been the grader for:
 <a href="https://cmengca23.github.io/cheng meng's photo.jpg">My photo</a>
 <p></p>
 
-This page was last updated on Nov 1, 2023.
+This page was last updated on Dec 29, 2023.
 
 
 

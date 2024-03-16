@@ -5,7 +5,7 @@
 
 <body>
 
-<img src="Cheng Meng's photo 3.jpg"><br>
+<img src="MSRI FEB 20241522.jpg"><br>
 
 <h1> Cheng Meng </h1>
 

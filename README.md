@@ -9,10 +9,9 @@
 
 <h1> Cheng Meng </h1>
 
-Ph.D. Graduate Student <br>
-Office: MATH 743 <br>
-150 N. University Street <br>
-West Lafayette, IN 47907-2067 <br>
+Simons Laufer Mathematical Sciences Institute <br>
+Office: 304 <br>
+17 Gauss Way, Berkeley, CA 94720 <br>
 Email: cheng319 at purdue dot edu
 
 
@@ -22,9 +21,9 @@ Email: cheng319 at purdue dot edu
 
 <p>
 </p><h2> About Me </h2>
-I will be a postdoctoral fellow at SLMath (formerly MSRI) during the Spring 2024 semester. I received my PhD from Purdue in December 2023. My advisors are Giulio Caviglia and Linquan Ma. My research interests are in commutative algebra and its interactions with algebraic geometry, homological algebra and combinatorics. I am on the job market this fall.<br><br>
+I am a postdoctoral fellow at SLMath (formerly MSRI) during the Spring 2024 semester. I received my PhD from Purdue in December 2023. My advisors are Giulio Caviglia and Linquan Ma. My research interests are in commutative algebra and its interactions with algebraic geometry, homological algebra and combinatorics. I am on the job market this semester.<br><br>
 I worked on problems regarding the graded-irreducibility of graded modules, generic initial ideals, Boij-Soderberg theory for local cohomology tables, Lech's conjecture on multiplicities of flat local extension of Noetherian local rings, and singularities in prime characteristic. I have proved a new case of Lech's conjecture, and have found a way to decompose the local cohomology table of almost Cohen-Macaulay modules. <br><br>
-My recent work focuses on h-function, which is a function in a single real variable. It estimates the asymptotic behaviour of the sum of an ordinary power and a Frobenius power and has connections with many important invariants in charateristic p including the Hilbert-Kunz multiplicity, the F-signature, and the F-threshold.
+My latest work focuses on h-function, which is a function in a single real variable. It estimates the asymptotic behaviour of the sum of an ordinary power and a Frobenius power and has connections with many important invariants in charateristic p including the Hilbert-Kunz multiplicity, the F-signature, and the F-threshold. Recently, I am also working on explicit computation of Hilbert-Kunz multiplicity and set-theoretic complete intersections.
 <p></p>
 
 <p>
@@ -38,8 +37,8 @@ In Summer 2022 I was a tutor in the ICTP summer school <a href="https://indico.i
 <div style="font-size: 1.2em; margin-bottom: 0px; margin-left: 1em; margin-right: auto; margin-top: 0px; word-wrap: break-word; width: %; ">
 
 <h4>Past</h4>
-<li>This semester I am a recitation instructor for MA 261. </li>
-<li>I have been the recitation instructor for MA 165. There is a <a href="https://cmengca23.github.io/index-MA165-Fall 2019.html">link</a> on this course.</li>
+<li>Recitation instructor for MA 261, Fall 2023. </li>
+<li>Recitation instructor for MA 165, Fall 2019 There is a <a href="https://cmengca23.github.io/index-MA165-Fall 2019.html">link</a> on this course.</li>
 I have been the grader for:
 <li>MA 546 and MA 558, Fall 2022. </li>
 <li>MA 553 and MA 558, Spring 2021. </li>
@@ -85,7 +84,7 @@ I have been the grader for:
 <a href="https://cmengca23.github.io/cheng meng's photo.jpg">My photo</a>
 <p></p>
 
-This page was last updated on Dec 29, 2023.
+This page was last updated on Mar 15, 2024.
 
 
 

@@ -38,7 +38,7 @@ In Summer 2022 I was a tutor in the ICTP summer school <a href="https://indico.i
 
 <h4>Past</h4>
 <li>Recitation instructor for MA 261, Fall 2023. </li>
-<li>Recitation instructor for MA 165, Fall 2019 There is a <a href="https://cmengca23.github.io/index-MA165-Fall 2019.html">link</a> on this course.</li>
+<li>Recitation instructor for MA 165, Fall 2019. There is a <a href="https://cmengca23.github.io/index-MA165-Fall 2019.html">link</a> on this course.</li>
 I have been the grader for:
 <li>MA 546 and MA 558, Fall 2022. </li>
 <li>MA 553 and MA 558, Spring 2021. </li>

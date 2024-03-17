@@ -74,8 +74,6 @@ I have been the grader for:
 <ul><li>h-function, Hilbert-Kunz density function and Frobenius-Poincaré function (with Alapan Mukhopadhyay). <a href="https://cmengca23.github.io/papers-PDF version/h-function.pdf">PDF</a> <a href="https://arxiv.org/abs/2310.10270">Arxiv</a>
 <p></p>
 
-<p>
-</p><h2>Links</h2>
 <a href="https://cmengca23.github.io/CV Cheng Meng 20240315.pdf">My CV</a><br>
 
 <a href="https://cmengca23.github.io/cheng meng's photo.jpg">My photo</a>

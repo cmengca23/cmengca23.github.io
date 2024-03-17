@@ -71,7 +71,7 @@ I have been the grader for:
 <a href="https://arxiv.org/abs/2112.09849">Arxiv</a></li></ul>
 <p></p>
 
-<ul><li>h-function, Hilbert-Kunz density function and Frobenius-Poincaré function. <a href="https://cmengca23.github.io/papers-PDF version/h-function.pdf">PDF</a> <a href="https://arxiv.org/abs/2310.10270">Arxiv</a>
+<ul><li>h-function, Hilbert-Kunz density function and Frobenius-Poincaré function. (joint with Alapan Mukhopadhyay) <a href="https://cmengca23.github.io/papers-PDF version/h-function.pdf">PDF</a> <a href="https://arxiv.org/abs/2310.10270">Arxiv</a>
 <p></p>
 
 

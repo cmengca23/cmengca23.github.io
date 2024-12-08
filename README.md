@@ -25,7 +25,7 @@ I am a postdoctoral fellow at Yau Mathematical Sciences Center from Fall 2024. I
 I worked on problems regarding the graded-irreducibility of graded modules, generic initial ideals, Boij-Soderberg theory for local cohomology tables, Lech's conjecture on multiplicities of flat local extension of Noetherian local rings, and singularities in prime characteristic. I have proved a new case of Lech's conjecture, found a way to decompose the local cohomology table of almost Cohen-Macaulay modules, and have developed a new invariant of local rings of characteristic p called h-function, which is related to the Hilbert-Kunz multiplicity, the F-signature and the F-thresholds of rings. <br><br>
 Recently I am working on the following problems:<br><br>
 <li>Explicit computation of Hilbert-Kunz multiplicity, via the h-function;</li>
-<li>Asymptotic lengths of families of ideals;</li>s
+<li>Asymptotic lengths of families of ideals;</li>
 <li>Stillman type bound, which bounds the homological data of ideals with bounded number of generators and generating degrees.</li>
 I am also looking into problems related to linkage and set-theoretic complete intersections.
 <p></p>

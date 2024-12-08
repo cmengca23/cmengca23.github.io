@@ -10,7 +10,7 @@
 <h1> Cheng Meng </h1>
 
 Yau Mathematical Sciences Center, Tsinghua University <br>
-Office: 743 <br>
+Office: Shuangqing Building A, 743 <br>
 Yau Mathematical Sciences Center, Tsinghua University, Beijing, China 100084 <br>
 Email: cheng319 at purdue dot edu, cheng319000 at mail.tsinghua.edu.cn
 
@@ -23,9 +23,9 @@ Email: cheng319 at purdue dot edu, cheng319000 at mail.tsinghua.edu.cn
 </p><h2> About Me </h2>
 I am a postdoctoral fellow at Yau Mathematical Sciences Center from Fall 2024. I received my PhD from Purdue in December 2023. My advisors are Giulio Caviglia and Linquan Ma. My research interests are in commutative algebra and its interactions with algebraic geometry, homological algebra and combinatorics.<br><br>
 I worked on problems regarding the graded-irreducibility of graded modules, generic initial ideals, Boij-Soderberg theory for local cohomology tables, Lech's conjecture on multiplicities of flat local extension of Noetherian local rings, and singularities in prime characteristic. I have proved a new case of Lech's conjecture, found a way to decompose the local cohomology table of almost Cohen-Macaulay modules, and have developed a new invariant of local rings of characteristic p called h-function, which is related to the Hilbert-Kunz multiplicity, the F-signature and the F-thresholds of rings. <br><br>
-Recently I am working on the following problem:<br><br>
+Recently I am working on the following problems:<br><br>
 <li>Explicit computation of Hilbert-Kunz multiplicity, via the h-function;</li>
-<li>Asymptotic lengths of families of ideals;</li>
+<li>Asymptotic lengths of families of ideals;</li>s
 <li>Stillman type bound, which bounds the homological data of ideals with bounded number of generators and generating degrees.</li>
 I am also looking into problems related to linkage and set-theoretic complete intersections.
 <p></p>

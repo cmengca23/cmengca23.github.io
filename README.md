@@ -61,32 +61,33 @@ I have been the grader for:
 <p>
 </p><h2>Publications and preprints</h2>
 1.G-graded irreducibility and the index of reducibility, Comm. Algebra 48 (2020), no. 2, 826–832. <a href="https://cmengca23.github.io/papers-PDF version/20181216 Graded Irreducible paper10.pdf">PDF</a>
-<a href="https://arxiv.org/abs/1812.06541">Arxiv</a></li></ul>
+<a href="https://arxiv.org/abs/1812.06541">Arxiv</a>
 <p></p>
 
-2.Restrictions on Hilbert coefficients give the depth of a prime ideal inside the polynomial ring <a href="https://cmengca23.github.io/papers-PDF version/20231120 InP.pdf">PDF</a><a href="https://arxiv.org/abs/2501.07829">Arxiv</a></li></ul>
+2.Restrictions on Hilbert coefficients give the depth of a prime ideal inside the polynomial ring <a href="https://cmengca23.github.io/papers-PDF version/20231120 InP.pdf">PDF</a><a href="https://arxiv.org/abs/2501.07829">Arxiv</a>
+
 
 3.Local cohomology tables of sequentially almost Cohen-Macaulay modules J. Algebra 665 (2025), 596–627. <a href="https://www.math.purdue.edu/~cheng319/papers/2111.07536v2.pdf">PDF</a>
-<a href="https://arxiv.org/abs/2111.07536">Arxiv</a></li></ul>
+<a href="https://arxiv.org/abs/2111.07536">Arxiv</a>
 <p></p>
 
 4.Strongly Lech-independent ideals and Lech's conjecture <a href="https://cmengca23.github.io/papers-PDF version/2112.09849.pdf">PDF</a>
-<a href="https://arxiv.org/abs/2112.09849">Arxiv</a></li></ul>
+<a href="https://arxiv.org/abs/2112.09849">Arxiv</a>
 <p></p>
 
-5.h-function, Hilbert-Kunz density function and Frobenius-Poincaré function (with Alapan Mukhopadhyay). <a href="https://cmengca23.github.io/papers-PDF version/h-function.pdf">PDF</a> <a href="https://arxiv.org/abs/2310.10270">Arxiv</a></li></ul>
+5.h-function, Hilbert-Kunz density function and Frobenius-Poincaré function (with Alapan Mukhopadhyay). <a href="https://cmengca23.github.io/papers-PDF version/h-function.pdf">PDF</a> <a href="https://arxiv.org/abs/2310.10270">Arxiv</a>
 <p></p>
 
-6.Asymptotic colengths for families of ideals: an analytic approach (with Sudipta Das). <a href="https://arxiv.org/abs/2410.11991">Arxiv</a></li></ul>
+6.Asymptotic colengths for families of ideals: an analytic approach (with Sudipta Das). <a href="https://arxiv.org/abs/2410.11991">Arxiv</a>
 <p></p>
 
-7.Analysis in Hilbert-Kunz theory. <a href="https://arxiv.org/abs/2507.13898">Arxiv</a></li></ul>
+7.Analysis in Hilbert-Kunz theory. <a href="https://arxiv.org/abs/2507.13898">Arxiv</a>
 <p></p>
 
-8.Explicit Stillman bounds for all degrees. <a href="https://arxiv.org/abs/2507.19617">Arxiv</a></li></ul>
+8.Explicit Stillman bounds for all degrees. <a href="https://arxiv.org/abs/2507.19617">Arxiv</a>
 <p></p>
 
-9.Finiteness and infiniteness of gradings of Noetherian rings. <a href="https://arxiv.org/abs/2508.01628">Arxiv</a></li></ul>
+9.Finiteness and infiniteness of gradings of Noetherian rings. <a href="https://arxiv.org/abs/2508.01628">Arxiv</a>
 <p></p>
 
 <p></p><h2>Links</h2>
@@ -100,4 +101,4 @@ This page was last updated on Aug 6, 2025.
 
 
 
-</li></ul></body></html>
+</body></html>

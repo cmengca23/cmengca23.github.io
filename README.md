@@ -22,12 +22,11 @@ Email: <s>cheng319 at purdue dot edu(expired)</s>, cmengca95 at outlook.com, che
 <p>
 </p><h2> About Me </h2>
 I am a postdoctoral fellow at Yau Mathematical Sciences Center from Fall 2024. I received my PhD from Purdue in December 2023. My advisors are Giulio Caviglia and Linquan Ma. My research interests are in commutative algebra and its interactions with algebraic geometry, homological algebra and combinatorics.<br><br>
-I worked on problems regarding the graded-irreducibility of graded modules, generic initial ideals, Boij-Soderberg theory for local cohomology tables, Lech's conjecture on multiplicities of flat local extension of Noetherian local rings, and singularities in prime characteristic. I have proved a new case of Lech's conjecture, found a way to decompose the local cohomology table of almost Cohen-Macaulay modules, and have developed a new invariant of local rings of characteristic p called h-function, which is related to the Hilbert-Kunz multiplicity, the F-signature and the F-thresholds of rings. <br><br>
-Recently I am working on the following problems:<br><br>
-<li>Explicit computation of Hilbert-Kunz multiplicity, via the h-function;</li>
-<li>Asymptotic lengths of families of ideals;</li>
-<li>Stillman type bound, which bounds the homological data of ideals with bounded number of generators and generating degrees.</li>
-I am also looking into problems related to linkage and set-theoretic complete intersections.
+I worked on various problems in commutative algebra involving graded rings and modules, Grobner basis, homological invariants, multiplicity and characteristic p methods. One of my recent work gives a way to compute the h-function of principal ideals, which gives the Hilbert-Kunz multiplicity and F-signature of the quotient hypersurface ring. The statement of the main theorem uses Riemann-Stieltjes integral and its proof is rooted in the representation theory of k[T] developed by Han-Monsky. Geometry and Fractal analysis also appear in the study. As an application of the main result, I prove an inequality on the Hilbert-Kunz multiplicity of Fermat quadrics. In another recent collaborative work, I also find many explicit Stillman bounds whose existence is proved by Ananyan and Hochster.<br><br>
+Recently I am looking into the following problems:<br><br>
+<li>Representation of commutative Artinian algebras;</li>
+<li>Computations on Grobner basis.</li>
+I am also interested in linkages, Rees algebras in characteristic p and other problems on F-singularities.
 <p></p>
 
 <p>
@@ -41,6 +40,7 @@ In Summer 2022 I was a tutor in the ICTP summer school <a href="https://indico.i
 <div style="font-size: 1.2em; margin-bottom: 0px; margin-left: 1em; margin-right: auto; margin-top: 0px; word-wrap: break-word; width: %; ">
 
 <h4>Past</h4>
+<li>Teaching assistant for Commutative Algebra, Spring 2025. </li>
 <li>Teaching assistant for Algebra I, Fall 2024. </li>
 <li>Recitation instructor for MA 261, Fall 2023. </li>
 <li>Recitation instructor for MA 165, Fall 2019. There is a <a href="https://cmengca23.github.io/index-MA165-Fall 2019.html">link</a> on this course.</li>
@@ -60,15 +60,15 @@ I have been the grader for:
 
 <p>
 </p><h2>Publications</h2>
-<ul><li>G-graded irreducibility and the index of reducibility, Communications in Algebra, DOI: 10.1080/00927872.2019.1662914 <a href="https://cmengca23.github.io/papers-PDF version/20181216 Graded Irreducible paper10.pdf">PDF</a>
+<ul><li>G-graded irreducibility and the index of reducibility, Comm. Algebra 48 (2020), no. 2, 826–832. <a href="https://cmengca23.github.io/papers-PDF version/20181216 Graded Irreducible paper10.pdf">PDF</a>
 <a href="https://arxiv.org/abs/1812.06541">Arxiv</a></li></ul>
 <p></p>
 
 <p>
 </p><h2>Preprints</h2>
-<ul><li>Restrictions on Hilbert coefficients give the depth of a prime ideal inside the polynomial ring <a href="https://cmengca23.github.io/papers-PDF version/20231120 InP.pdf">PDF</a></li></ul>
+<ul><li>Restrictions on Hilbert coefficients give the depth of a prime ideal inside the polynomial ring <a href="https://cmengca23.github.io/papers-PDF version/20231120 InP.pdf">PDF</a><a href="https://arxiv.org/abs/2501.07829">Arxiv</a></li></ul>
 
-<ul><li>Local cohomology tables of sequentially almost Cohen-Macaulay modules (accepted by Journal of Algebra) <a href="https://www.math.purdue.edu/~cheng319/papers/2111.07536v2.pdf">PDF</a>
+<ul><li>Local cohomology tables of sequentially almost Cohen-Macaulay modules J. Algebra 665 (2025), 596–627. <a href="https://www.math.purdue.edu/~cheng319/papers/2111.07536v2.pdf">PDF</a>
 <a href="https://arxiv.org/abs/2111.07536">Arxiv</a></li></ul>
 <p></p>
 
@@ -80,6 +80,15 @@ I have been the grader for:
 <p></p>
 
 <ul><li>Asymptotic colengths for families of ideals: an analytic approach (with Sudipta Das). <a href="https://arxiv.org/abs/2410.11991">Arxiv</a></li></ul>
+<p></p>
+
+<ul><li>Analysis in Hilbert-Kunz theory. <a href="https://arxiv.org/abs/2507.13898">Arxiv</a></li></ul>
+<p></p>
+
+<ul><li>Explicit Stillman bounds for all degrees. <a href="https://arxiv.org/abs/2507.19617">Arxiv</a></li></ul>
+<p></p>
+
+<ul><li>Finiteness and infiniteness of gradings of Noetherian rings. <a href="https://arxiv.org/abs/2508.01628">Arxiv</a></li></ul>
 <p></p>
 
 <p></p><h2>Links</h2>

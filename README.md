@@ -84,7 +84,7 @@ I have been the grader for:
 7.Analysis in Hilbert-Kunz theory. <a href="https://arxiv.org/abs/2507.13898">Arxiv</a>
 <p></p>
 
-8.Explicit Stillman bounds for all degrees. <a href="https://arxiv.org/abs/2507.19617">Arxiv</a>
+8.Explicit Stillman bounds for all degrees (with Giulio Caviglia and Yihui Liang). <a href="https://arxiv.org/abs/2507.19617">Arxiv</a>
 <p></p>
 
 9.Finiteness and infiniteness of gradings of Noetherian rings. <a href="https://arxiv.org/abs/2508.01628">Arxiv</a>

@@ -74,19 +74,19 @@ I have been the grader for:
 <a href="https://arxiv.org/abs/2112.09849">Arxiv</a></li></ul>
 <p></p>
 
-<ul><li>5.h-function, Hilbert-Kunz density function and Frobenius-Poincaré function (with Alapan Mukhopadhyay). <a href="https://cmengca23.github.io/papers-PDF version/h-function.pdf">PDF</a> <a href="https://arxiv.org/abs/2310.10270">Arxiv</a></li></ul>
+5.h-function, Hilbert-Kunz density function and Frobenius-Poincaré function (with Alapan Mukhopadhyay). <a href="https://cmengca23.github.io/papers-PDF version/h-function.pdf">PDF</a> <a href="https://arxiv.org/abs/2310.10270">Arxiv</a></li></ul>
 <p></p>
 
-<ul><li>6.Asymptotic colengths for families of ideals: an analytic approach (with Sudipta Das). <a href="https://arxiv.org/abs/2410.11991">Arxiv</a></li></ul>
+6.Asymptotic colengths for families of ideals: an analytic approach (with Sudipta Das). <a href="https://arxiv.org/abs/2410.11991">Arxiv</a></li></ul>
 <p></p>
 
-<ul><li>7.Analysis in Hilbert-Kunz theory. <a href="https://arxiv.org/abs/2507.13898">Arxiv</a></li></ul>
+7.Analysis in Hilbert-Kunz theory. <a href="https://arxiv.org/abs/2507.13898">Arxiv</a></li></ul>
 <p></p>
 
-<ul><li>8.Explicit Stillman bounds for all degrees. <a href="https://arxiv.org/abs/2507.19617">Arxiv</a></li></ul>
+8.Explicit Stillman bounds for all degrees. <a href="https://arxiv.org/abs/2507.19617">Arxiv</a></li></ul>
 <p></p>
 
-<ul><li>9.Finiteness and infiniteness of gradings of Noetherian rings. <a href="https://arxiv.org/abs/2508.01628">Arxiv</a></li></ul>
+9.Finiteness and infiniteness of gradings of Noetherian rings. <a href="https://arxiv.org/abs/2508.01628">Arxiv</a></li></ul>
 <p></p>
 
 <p></p><h2>Links</h2>

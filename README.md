@@ -60,17 +60,17 @@ I have been the grader for:
 
 <p>
 </p><h2>Publications and preprints</h2>
-<ul>1.G-graded irreducibility and the index of reducibility, Comm. Algebra 48 (2020), no. 2, 826–832. <a href="https://cmengca23.github.io/papers-PDF version/20181216 Graded Irreducible paper10.pdf">PDF</a>
+1.G-graded irreducibility and the index of reducibility, Comm. Algebra 48 (2020), no. 2, 826–832. <a href="https://cmengca23.github.io/papers-PDF version/20181216 Graded Irreducible paper10.pdf">PDF</a>
 <a href="https://arxiv.org/abs/1812.06541">Arxiv</a></li></ul>
 <p></p>
 
-<ul><li>2.Restrictions on Hilbert coefficients give the depth of a prime ideal inside the polynomial ring <a href="https://cmengca23.github.io/papers-PDF version/20231120 InP.pdf">PDF</a><a href="https://arxiv.org/abs/2501.07829">Arxiv</a></li></ul>
+2.Restrictions on Hilbert coefficients give the depth of a prime ideal inside the polynomial ring <a href="https://cmengca23.github.io/papers-PDF version/20231120 InP.pdf">PDF</a><a href="https://arxiv.org/abs/2501.07829">Arxiv</a></li></ul>
 
-<ul><li>3.Local cohomology tables of sequentially almost Cohen-Macaulay modules J. Algebra 665 (2025), 596–627. <a href="https://www.math.purdue.edu/~cheng319/papers/2111.07536v2.pdf">PDF</a>
+3.Local cohomology tables of sequentially almost Cohen-Macaulay modules J. Algebra 665 (2025), 596–627. <a href="https://www.math.purdue.edu/~cheng319/papers/2111.07536v2.pdf">PDF</a>
 <a href="https://arxiv.org/abs/2111.07536">Arxiv</a></li></ul>
 <p></p>
 
-<ul><li>4.Strongly Lech-independent ideals and Lech's conjecture <a href="https://cmengca23.github.io/papers-PDF version/2112.09849.pdf">PDF</a>
+4.Strongly Lech-independent ideals and Lech's conjecture <a href="https://cmengca23.github.io/papers-PDF version/2112.09849.pdf">PDF</a>
 <a href="https://arxiv.org/abs/2112.09849">Arxiv</a></li></ul>
 <p></p>
 

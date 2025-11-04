@@ -76,11 +76,11 @@ I have been the grader for:
 5.h-function, Hilbert-Kunz density function and Frobenius-Poincaré function (with Alapan Mukhopadhyay). <a href="https://cmengca23.github.io/papers-PDF version/h-function.pdf">PDF</a> <a href="https://arxiv.org/abs/2310.10270">Arxiv</a>
 <p></p>
 
-4.Strongly Lech-independent ideals and Lech's conjecture <a href="https://cmengca23.github.io/papers-PDF version/2112.09849.pdf">PDF</a>
+4.Strongly Lech-independent ideals and Lech's conjecture, Accepted by Trans. Am. Math. Soc. <a href="https://cmengca23.github.io/papers-PDF version/2112.09849.pdf">PDF</a>
 <a href="https://arxiv.org/abs/2112.09849">Arxiv</a>
 <p></p>
 
-3.Local cohomology tables of sequentially almost Cohen-Macaulay modules J. Algebra 665 (2025), 596–627. <a href="https://www.math.purdue.edu/~cheng319/papers/2111.07536v2.pdf">PDF</a>
+3.Local cohomology tables of sequentially almost Cohen-Macaulay modules, J. Algebra 665 (2025), 596–627. <a href="https://www.math.purdue.edu/~cheng319/papers/2111.07536v2.pdf">PDF</a>
 <a href="https://arxiv.org/abs/2111.07536">Arxiv</a>
 <p></p>
 
@@ -92,7 +92,7 @@ I have been the grader for:
 <p></p>
 
 <p></p><h2>Links</h2>
-<a href="https://cmengca23.github.io/CV Cheng Meng 20250806.pdf">My CV</a><br>
+<a href="https://cmengca23.github.io/CV Cheng Meng 20251104.pdf">My CV</a><br>
 
 <a href="https://cmengca23.github.io/cheng meng's photo.jpg">My photo</a>
 <p></p>

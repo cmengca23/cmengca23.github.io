@@ -12,7 +12,7 @@
 Yau Mathematical Sciences Center, Tsinghua University <br>
 Office: Shuangqing Building A, 743 <br>
 Yau Mathematical Sciences Center, Tsinghua University, Beijing, China 100084 <br>
-Email: <s>cheng319 at purdue dot edu(expired)</s>, cmengca95 at outlook.com, cheng319000 at mail.tsinghua.edu.cn
+Email: cmengca95 at outlook.com, cheng319000 at mail.tsinghua.edu.cn
 
 
 
@@ -40,6 +40,7 @@ In Summer 2022 I was a tutor in the ICTP summer school <a href="https://indico.i
 <div style="font-size: 1.2em; margin-bottom: 0px; margin-left: 1em; margin-right: auto; margin-top: 0px; word-wrap: break-word; width: %; ">
 
 <h4>Past</h4>
+<li>Teaching assistant for Algebra I, Fall 2025. </li>
 <li>Teaching assistant for Commutative Algebra, Spring 2025. </li>
 <li>Teaching assistant for Algebra I, Fall 2024. </li>
 <li>Recitation instructor for MA 261, Fall 2023. </li>
@@ -76,28 +77,28 @@ I have been the grader for:
 5.h-function, Hilbert-Kunz density function and Frobenius-Poincaré function (with Alapan Mukhopadhyay). <a href="https://cmengca23.github.io/papers-PDF version/h-function.pdf">PDF</a> <a href="https://arxiv.org/abs/2310.10270">Arxiv</a>
 <p></p>
 
-4.Strongly Lech-independent ideals and Lech's conjecture, Accepted by Trans. Am. Math. Soc. <a href="https://cmengca23.github.io/papers-PDF version/2112.09849.pdf">PDF</a>
+4.Strongly Lech-independent ideals and Lech's conjecture, Accepted by Trans. Am. Math. Soc. <a href="https://doi.org/10.1090/tran/9618">link</a>
 <a href="https://arxiv.org/abs/2112.09849">Arxiv</a>
 <p></p>
 
-3.Local cohomology tables of sequentially almost Cohen-Macaulay modules, J. Algebra 665 (2025), 596–627. <a href="https://www.math.purdue.edu/~cheng319/papers/2111.07536v2.pdf">PDF</a>
+3.Local cohomology tables of sequentially almost Cohen-Macaulay modules, J. Algebra 665 (2025), 596–627. <a href="https://www.tandfonline.com/doi/full/10.1080/00927872.2019.1662914">link</a>
 <a href="https://arxiv.org/abs/2111.07536">Arxiv</a>
 <p></p>
 
-2.Restrictions on Hilbert coefficients give the depth of a prime ideal inside the polynomial ring <a href="https://cmengca23.github.io/papers-PDF version/20231120 InP.pdf">PDF</a><a href="https://arxiv.org/abs/2501.07829">Arxiv</a>
+2.Restrictions on Hilbert coefficients give the depth of a prime ideal inside the polynomial ring <a href="https://www.sciencedirect.com/science/article/abs/pii/S002240492500283X?via%3Dihub">link</a><a href="https://arxiv.org/abs/2501.07829">Arxiv</a>
 <p></p>
 
-1.G-graded irreducibility and the index of reducibility, Comm. Algebra 48 (2020), no. 2, 826–832. <a href="https://cmengca23.github.io/papers-PDF version/20181216 Graded Irreducible paper10.pdf">PDF</a>
+1.G-graded irreducibility and the index of reducibility, Comm. Algebra 48 (2020), no. 2, 826–832. <a href="https://www.tandfonline.com/doi/full/10.1080/00927872.2019.1662914">link</a>
 <a href="https://arxiv.org/abs/1812.06541">Arxiv</a>
 <p></p>
 
 <p></p><h2>Links</h2>
-<a href="https://cmengca23.github.io/CV Cheng Meng 20251118.pdf">My CV</a><br>
+<a href="https://cmengca23.github.io/CV Cheng Meng 20251218.pdf">My CV</a><br>
 
 <a href="https://cmengca23.github.io/cheng meng's photo.jpg">My photo</a>
 <p></p>
 
-This page was last updated on Aug 6, 2025.
+This page was last updated on Dec 18, 2025.
 
 
 

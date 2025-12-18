@@ -81,11 +81,11 @@ I have been the grader for:
 <a href="https://arxiv.org/abs/2112.09849">Arxiv</a>
 <p></p>
 
-3.Local cohomology tables of sequentially almost Cohen-Macaulay modules, J. Algebra 665 (2025), 596–627. <a href="https://www.tandfonline.com/doi/full/10.1080/00927872.2019.1662914">link</a>
+3.Local cohomology tables of sequentially almost Cohen-Macaulay modules, J. Algebra 665 (2025), 596–627. <a href="https://www.sciencedirect.com/science/article/abs/pii/S0021869324006100">link</a>
 <a href="https://arxiv.org/abs/2111.07536">Arxiv</a>
 <p></p>
 
-2.Restrictions on Hilbert coefficients give the depth of a prime ideal inside the polynomial ring <a href="https://www.sciencedirect.com/science/article/abs/pii/S002240492500283X?via%3Dihub">link</a><a href="https://arxiv.org/abs/2501.07829">Arxiv</a>
+2.Restrictions on Hilbert coefficients give the depth of a prime ideal inside the polynomial ring <a href="https://www.sciencedirect.com/science/article/abs/pii/S002240492500283X?via%3Dihub">link</a> <a href="https://arxiv.org/abs/2501.07829">Arxiv</a>
 <p></p>
 
 1.G-graded irreducibility and the index of reducibility, Comm. Algebra 48 (2020), no. 2, 826–832. <a href="https://www.tandfonline.com/doi/full/10.1080/00927872.2019.1662914">link</a>

@@ -74,7 +74,7 @@ I have been the grader for:
 6.Asymptotic colengths for families of ideals: an analytic approach (with Sudipta Das). <a href="https://arxiv.org/abs/2410.11991">Arxiv</a>
 <p></p>
 
-5.h-function, Hilbert-Kunz density function and Frobenius-Poincaré function (with Alapan Mukhopadhyay). <a href="https://cmengca23.github.io/papers-PDF version/h-function.pdf">PDF</a> <a href="https://arxiv.org/abs/2310.10270">Arxiv</a>
+5.h-function, Hilbert-Kunz density function and Frobenius-Poincaré function (with Alapan Mukhopadhyay). <a href="https://arxiv.org/abs/2310.10270">Arxiv</a>
 <p></p>
 
 4.Strongly Lech-independent ideals and Lech's conjecture, Accepted by Trans. Am. Math. Soc. <a href="https://doi.org/10.1090/tran/9618">link</a>

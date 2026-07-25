@@ -30,37 +30,6 @@ I am also interested in linkages, Rees algebras in characteristic p and other pr
 <p></p>
 
 <p>
-</p><h2> Commutative Algebra Student Seminar </h2>
-In Spring 2022 I organized a commutative algebra student seminar. For more information about the seminar, please see <a href="https://cmengca23.github.io/CASS Spring 2022.html">here</a>.
-<p>
-
-</p><h2> ICTP Summer School </h2>
-In Summer 2022 I was a tutor in the ICTP summer school <a href="https://indico.ictp.it/event/9791/">"Graduate Course on Tight Closure of Ideals and its Applications"</a><p>
-</p><h2> Teaching </h2>	
-<div style="font-size: 1.2em; margin-bottom: 0px; margin-left: 1em; margin-right: auto; margin-top: 0px; word-wrap: break-word; width: %; ">
-
-<h4>Past</h4>
-<li>Teaching assistant for Algebra II, Spring 2026. </li>
-<li>Teaching assistant for Algebra I, Fall 2025. </li>
-<li>Teaching assistant for Commutative Algebra, Spring 2025. </li>
-<li>Teaching assistant for Algebra I, Fall 2024. </li>
-<li>Recitation instructor for MA 261, Fall 2023. </li>
-<li>Recitation instructor for MA 165, Fall 2019. There is a <a href="https://cmengca23.github.io/index-MA165-Fall 2019.html">link</a> on this course.</li>
-I have been the grader for:
-<li>MA 546 and MA 558, Fall 2022. </li>
-<li>MA 553 and MA 558, Spring 2021. </li>
-<li>MA 553, MA 557 and MA 304, Fall 2020. </li>
-<li>MA 553 and MA 558, Spring 2020. </li>
-<li>MA 453 and MA 546, Spring 2019. </li>
-<li>MA 450 and MA 553, Fall 2018. </li>
-<li>MA 453, Spring 2018.</li>
-<li>MA 527, Fall 2017. </li>
-<li>MA 303, Spring 2017.</li>
-<li>MA 304, Fall 2016.</li>
-</div>
-<p></p>
-
-<p>
 </p><h2>Publications and preprints</h2>
 
 11.Hilbert-Kunz multiplicity of quadrics decreases. <a href="https://arxiv.org/abs/2606.04346">Arxiv</a>
@@ -105,6 +74,39 @@ I have been the grader for:
 
 <a href="https://cmengca23.github.io/cheng meng's photo.jpg">My photo</a>
 <p></p>
+
+<p>
+</p><h2> Commutative Algebra Student Seminar </h2>
+In Spring 2022 I organized a commutative algebra student seminar. For more information about the seminar, please see <a href="https://cmengca23.github.io/CASS Spring 2022.html">here</a>.
+<p>
+
+</p><h2> ICTP Summer School </h2>
+In Summer 2022 I was a tutor in the ICTP summer school <a href="https://indico.ictp.it/event/9791/">"Graduate Course on Tight Closure of Ideals and its Applications"</a><p>
+</p><h2> Teaching </h2>	
+<div style="font-size: 1.2em; margin-bottom: 0px; margin-left: 1em; margin-right: auto; margin-top: 0px; word-wrap: break-word; width: %; ">
+
+<h4>Past</h4>
+<li>Teaching assistant for Algebra II, Spring 2026. </li>
+<li>Teaching assistant for Algebra I, Fall 2025. </li>
+<li>Teaching assistant for Commutative Algebra, Spring 2025. </li>
+<li>Teaching assistant for Algebra I, Fall 2024. </li>
+<li>Recitation instructor for MA 261, Fall 2023. </li>
+<li>Recitation instructor for MA 165, Fall 2019. There is a <a href="https://cmengca23.github.io/index-MA165-Fall 2019.html">link</a> on this course.</li>
+I have been the grader for:
+<li>MA 546 and MA 558, Fall 2022. </li>
+<li>MA 553 and MA 558, Spring 2021. </li>
+<li>MA 553, MA 557 and MA 304, Fall 2020. </li>
+<li>MA 553 and MA 558, Spring 2020. </li>
+<li>MA 453 and MA 546, Spring 2019. </li>
+<li>MA 450 and MA 553, Fall 2018. </li>
+<li>MA 453, Spring 2018.</li>
+<li>MA 527, Fall 2017. </li>
+<li>MA 303, Spring 2017.</li>
+<li>MA 304, Fall 2016.</li>
+</div>
+<p></p>
+
+
 
 This page was last updated on Jul 25, 2026.
 

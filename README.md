@@ -69,20 +69,11 @@ I am also interested in linkages, Rees algebras in characteristic p and other pr
 <a href="https://arxiv.org/abs/1812.06541">Arxiv</a>
 <p></p>
 
-<p></p><h2>Links</h2>
-<a href="https://cmengca23.github.io/CV Cheng Meng 20260725.pdf">My CV</a><br>
 
-<a href="https://cmengca23.github.io/cheng meng's photo.jpg">My photo</a>
-<p></p>
 
-<p>
-</p><h2> Commutative Algebra Student Seminar </h2>
-In Spring 2022 I organized a commutative algebra student seminar. For more information about the seminar, please see <a href="https://cmengca23.github.io/CASS Spring 2022.html">here</a>.
-<p>
 
-</p><h2> ICTP Summer School </h2>
-In Summer 2022 I was a tutor in the ICTP summer school <a href="https://indico.ictp.it/event/9791/">"Graduate Course on Tight Closure of Ideals and its Applications"</a><p>
-</p><h2> Teaching </h2>	
+
+<h2> Teaching </h2>	
 <div style="font-size: 1.2em; margin-bottom: 0px; margin-left: 1em; margin-right: auto; margin-top: 0px; word-wrap: break-word; width: %; ">
 
 <h4>Past</h4>
@@ -105,6 +96,21 @@ I have been the grader for:
 <li>MA 304, Fall 2016.</li>
 </div>
 <p></p>
+
+<p></p><h2>Links</h2>
+<a href="https://cmengca23.github.io/CV Cheng Meng 20260725.pdf">My CV</a><br>
+
+<a href="https://cmengca23.github.io/cheng meng's photo.jpg">My photo</a>
+<p></p>
+
+<p>
+</p><h2> Commutative Algebra Student Seminar </h2>
+In Spring 2022 I organized a commutative algebra student seminar. For more information about the seminar, please see <a href="https://cmengca23.github.io/CASS Spring 2022.html">here</a>.
+<p>
+
+</p><h2> ICTP Summer School </h2>
+In Summer 2022 I was a tutor in the ICTP summer school <a href="https://indico.ictp.it/event/9791/">"Graduate Course on Tight Closure of Ideals and its Applications"</a><p>
+</p>
 
 
 

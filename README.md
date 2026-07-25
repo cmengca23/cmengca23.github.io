@@ -1,7 +1,6 @@
-<html><head>
+<html>
 <meta http-equiv="content-type" content="text/html; charset=UTF-8">
-<title>Cheng Meng's Homepage</title>
-</head>
+<h1>Cheng Meng's Homepage</h1>
 
 <body>
 

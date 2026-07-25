@@ -40,6 +40,7 @@ In Summer 2022 I was a tutor in the ICTP summer school <a href="https://indico.i
 <div style="font-size: 1.2em; margin-bottom: 0px; margin-left: 1em; margin-right: auto; margin-top: 0px; word-wrap: break-word; width: %; ">
 
 <h4>Past</h4>
+<li>Teaching assistant for Algebra II, Spring 2026. </li>
 <li>Teaching assistant for Algebra I, Fall 2025. </li>
 <li>Teaching assistant for Commutative Algebra, Spring 2025. </li>
 <li>Teaching assistant for Algebra I, Fall 2024. </li>
@@ -62,7 +63,10 @@ I have been the grader for:
 <p>
 </p><h2>Publications and preprints</h2>
 
-10.Limit representation theory on some classes of representations of abelian groups. <a href="https://arxiv.org/abs/2603.11592">Arxiv</a>
+11.Hilbert-Kunz multiplicity of quadrics decreases. <a href="https://arxiv.org/abs/2606.04346">Arxiv</a>
+<p></p>
+
+10.Asymptotic behavior of modular representations over abelian p-groups. <a href="https://arxiv.org/abs/2603.11592">Arxiv</a>
 <p></p>
 
 9.Finiteness and infiniteness of gradings of Noetherian rings. <a href="https://arxiv.org/abs/2508.01628">Arxiv</a>
@@ -71,10 +75,11 @@ I have been the grader for:
 8.Explicit Stillman bounds for all degrees (with Giulio Caviglia and Yihui Liang). <a href="https://arxiv.org/abs/2507.19617">Arxiv</a>
 <p></p>
 
-7.Analysis in Hilbert-Kunz theory. <a href="https://arxiv.org/abs/2507.13898">Arxiv</a>
+7.Limits of F-invariants and Riemann-Stieltjes integral. <a href="https://arxiv.org/abs/2507.13898">Arxiv</a>
 <p></p>
 
-6.Asymptotic colengths for families of ideals: an analytic approach (with Sudipta Das). <a href="https://arxiv.org/abs/2410.11991">Arxiv</a>
+6.Asymptotic colengths for families of ideals: an analytic approach (with Sudipta Das). <a href="https://www.sciencedirect.com/science/article/abs/pii/S0021869326002395">link</a>
+<a href="https://arxiv.org/abs/2410.11991">Arxiv</a>
 <p></p>
 
 5.h-function, Hilbert-Kunz density function and Frobenius-Poincaré function (with Alapan Mukhopadhyay). <a href="https://arxiv.org/abs/2310.10270">Arxiv</a>
@@ -96,7 +101,7 @@ I have been the grader for:
 <p></p>
 
 <p></p><h2>Links</h2>
-<a href="https://cmengca23.github.io/CV Cheng Meng 20260328.pdf">My CV</a><br>
+<a href="https://cmengca23.github.io/CV Cheng Meng 20260725.pdf">My CV</a><br>
 
 <a href="https://cmengca23.github.io/cheng meng's photo.jpg">My photo</a>
 <p></p>

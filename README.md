@@ -69,14 +69,9 @@ I am also interested in linkages, Rees algebras in characteristic p and other pr
 <a href="https://arxiv.org/abs/1812.06541">Arxiv</a>
 <p></p>
 
-
-
-
-
 <h2> Teaching </h2>	
 <div style="font-size: 1.2em; margin-bottom: 0px; margin-left: 1em; margin-right: auto; margin-top: 0px; word-wrap: break-word; width: %; ">
 
-<h4>Past</h4>
 <li>Teaching assistant for Algebra II, Spring 2026. </li>
 <li>Teaching assistant for Algebra I, Fall 2025. </li>
 <li>Teaching assistant for Commutative Algebra, Spring 2025. </li>
@@ -97,21 +92,21 @@ I have been the grader for:
 </div>
 <p></p>
 
+
+
+<p>
+</p><h2> Other activities  </h2>
+<h4> Commutative Algebra Student Seminar </h4>
+In Spring 2022 I organized a commutative algebra student seminar. For more information about the seminar, please see <a href="https://cmengca23.github.io/CASS Spring 2022.html">here</a>.
+<h4> ICTP Summer School </h4>
+In Summer 2022 I was a tutor in the ICTP summer school <a href="https://indico.ictp.it/event/9791/">"Graduate Course on Tight Closure of Ideals and its Applications"</a><p>
+</p>
+
 <p></p><h2>Links</h2>
 <a href="https://cmengca23.github.io/CV Cheng Meng 20260725.pdf">My CV</a><br>
 
 <a href="https://cmengca23.github.io/cheng meng's photo.jpg">My photo</a>
 <p></p>
-
-<p>
-</p><h2> Commutative Algebra Student Seminar </h2>
-In Spring 2022 I organized a commutative algebra student seminar. For more information about the seminar, please see <a href="https://cmengca23.github.io/CASS Spring 2022.html">here</a>.
-<p>
-
-</p><h2> ICTP Summer School </h2>
-In Summer 2022 I was a tutor in the ICTP summer school <a href="https://indico.ictp.it/event/9791/">"Graduate Course on Tight Closure of Ideals and its Applications"</a><p>
-</p>
-
 
 
 This page was last updated on Jul 25, 2026.
